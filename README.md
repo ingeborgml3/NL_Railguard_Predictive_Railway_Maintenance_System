@@ -1,6 +1,6 @@
 # NL_Railguard_Predictive_Railway_Maintenance_System
 
-# 🚆 Railway Disruption Predictor
+# Railway Disruption Predictor
 
 Predictive maintenance system for Dutch railway infrastructure using machine learning to anticipate failures before they happen — shifting NS/ProRail from reactive crisis management to proactive risk prevention.
 
